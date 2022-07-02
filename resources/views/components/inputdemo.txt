@@ -38,3 +38,10 @@
     <span class="input-group-text">.00</span>
 </div>
 <!--end::Input group-->
+
+<!-- multiple select using select 2 -->
+<select class="form-select form-select-solid" data-control="select2" data-placeholder="Select an option" data-allow-clear="true" multiple="multiple">
+    <option></option>
+    <option value="1">Option 1</option>
+    <option value="2">Option 2</option>
+</select>
