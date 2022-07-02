@@ -1,0 +1,40 @@
+<!--begin::Input group-->
+<div class="input-group mb-5">
+    <span class="input-group-text" id="basic-addon1">
+        <!--begin::Svg Icon | path: icons/duotune/communication/com006.svg-->
+        <span class="svg-icon svg-icon-3x">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+            ....
+            </svg>
+        </span>
+        <!--end::Svg Icon-->
+    </span>
+    <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1"/>
+</div>
+<!--end::Input group-->
+
+<!--begin::Input group-->
+<div class="input-group mb-5">
+    <input type="text" class="form-control" placeholder="Recipient's username" aria-label="Recipient's username" aria-describedby="basic-addon2"/>
+    <span class="input-group-text" id="basic-addon2">
+        <i class="fas fa-envelope-open-text fs-4"></i>
+    </span>
+</div>
+<!--end::Input group-->
+
+<!--begin::Input group-->
+<div class="input-group mb-5">
+    <span class="input-group-text" id="basic-addon3">
+        <i class="las la-wallet fs-1"></i>
+    </span>
+    <input type="text" class="form-control" id="basic-url"  placeholder="Website URL" aria-describedby="basic-addon3"/>
+</div>
+<!--end::Input group-->
+
+<!--begin::Input group-->
+<div class="input-group mb-5">
+    <span class="input-group-text"><i class="bi bi-graph-down fs-2"></i></span>
+    <input type="text" class="form-control" placeholder="Amount (to the nearest dollar)"/>
+    <span class="input-group-text">.00</span>
+</div>
+<!--end::Input group-->
